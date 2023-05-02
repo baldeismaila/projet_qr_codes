@@ -1,0 +1,33 @@
+.user, .containerUser, .editUser, .containerLogin{
+    margin-top: 5rem;
+    height: 100%;
+}
+
+.tableQr{
+    margin-top: 5rem;
+    width: 100%;
+}
+.tableQr tr td{
+    width: 10.42%;
+    text-align: right;
+}
+
+.tableRole{
+    margin-top: 5rem;
+    width: 50%;
+}
+
+.btn{
+    background-color: rgb(250, 127, 82);
+}
+
+.black{
+    background-color: rgb(24, 24, 24);
+}
+
+.logout{
+    color: black;
+    border: 1px solid rgb(188, 183, 183);
+    font-size: 1rem;
+    border-radius: 4px;
+}
